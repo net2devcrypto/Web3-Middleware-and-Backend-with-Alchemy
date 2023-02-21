@@ -134,9 +134,11 @@ node backend.js
 
 ## Step 13
 
-Open the frontend app in your browser and search for NFTs!
+Open the frontend in your browser and search wallets to display NFTs!
 
+If everything works well, you should see the nft's in the browser and log messages in the backend console
 
+<a><img src="https://github.com/net2devcrypto/misc/blob/main/outputbackend.png" width="560" height="200"></a>
 
 Please watch tutorial video for additional information.
 Enjoy!
