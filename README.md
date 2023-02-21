@@ -4,8 +4,6 @@ Implement a very straightforward middleware and backend for your Web3 apps with 
 
 <a><img src="https://github.com/net2devcrypto/Alchemy-SDK-Quick-NFT-Market/blob/main/public/alchemy-white.png" width="260" height="60"></a>
 ##
-Be sure to watch my Youtube video so you can learn and follow along!
-
 
 ** THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY **
 
