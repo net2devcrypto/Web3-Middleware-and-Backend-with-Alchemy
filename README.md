@@ -6,15 +6,44 @@ Implement a very straightforward middleware and backend for your Web3 apps with 
 ##
 Be sure to watch my Youtube video so you can learn and follow along!
 
+
 ** THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY **
 
 ** NOT FINANCIAL ADVISE **
 
 ** USE IT AT YOUR OWN RISK** **I'M NOT RESPONSIBLE FOR ANY USE, ISSUES ETC.. **
 
+
 Be sure to watch my Youtube video so you can learn and follow along!
 
 <a href="https://youtu.be/W7Xt7nxkYNY" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a> 
+
+
+`
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@     @@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@       @@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@(          @@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@             @@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@.              @@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@              @@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@  @@@@@               @@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@      @@@@@              @@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@        @@@@@              *@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@            @@@@@              @@@@@@@@@@@@@@@
+@@@@@@@@@@@@@              @@@@@              &@@@@@@@@@@@@@
+@@@@@@@@@@@              %@@@@@@@@              @@@@@@@@@@@@
+@@@@@@@@@@              @@@@@@@@@@@              @@@@@@@@@@@
+@@@@@@@@              ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@               @@@@@                             @@@@@@
+@@@@              @@@@@                                @@@@@
+@@/              @@@@@                                   @@@
+@              @@@@@                                      @@
+@&&&&&&&&&&&&@@@@@@@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@@
+`
+
+
 
 ## Step 1
 
